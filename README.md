@@ -4,7 +4,7 @@ Last Updated: October 4, 2023
 
 Third-party Advertising: We use Google AdMob to display ads within our app. To show relevant ads, Google may collect and use your data. We do not directly collect or store this information ourselves.
 
-Data Collection and Use: Google utilizes cookies and other technologies to collect and analyze user information to provide more relevant advertising. For more information, you can refer to Google's Privacy Policy: [Google隱私政策的鏈接](https://policies.google.com/privacy?hl=zh-TW)。
+Data Collection and Use: Google utilizes cookies and other technologies to collect and analyze user information to provide more relevant advertising. For more information, you can refer to Google's Privacy Policy:(https://policies.google.com/privacy?hl=zh-TW)。
 
 Opt-Out: If you prefer not to receive targeted advertisements, you can follow the guidelines provided by Google to adjust your ad settings or opt-out.
 
